@@ -2,26 +2,31 @@ const expertise = [
     {
         id: 0,
         title: 'Full Stack Development',
-        desc: 'I am a skilled MERN stack developer with extensive experience in building robust web applications using MongoDB, Express.js, React.js, and Node.js. I possess a strong understanding of server-side rendering, API integration, and database management. With my expertise, I can deliver dynamic and efficient web solutions tailored to meet the unique requirements of clients.',
+        desc: 'I am a skilled Full stack developer with extensive experience in building robust web applications using HTML5/CSS3, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL. Testing Frameworks: Jest, Mocha, or Jasmine for unit and integration testing. I have good experience with deploying applications using platforms like AWS, Heroku, or Netlify.',
     },
     {
         id: 1,
-        title: 'Scrum and Jira',
-        desc: "As a developer, I'm proficient in Jira and Scrum methodologies. I use Jira to simplify project management tasks like task assignment, prioritization, and progress tracking. Scrum has improved my teamwork, utilizing daily stand-ups, sprint planning, and retrospectives. My expertise ensures high-quality software products are delivered promptly.",
+        title: 'Real Money Game Developer',
+        desc: "I have experience on various Gaming journal like Real Money Gaming Poker, Rummy, Ludo, Call Break etc. having end to end experience in Pre sales to release the product. Developed games from scratch to live product till the revenue generation in product, real money services like poker, casino, rummy, call break, teen-patti, fantasy sports, ludo, snake & ladder, gamification, and much more.",
     },
     {
         id: 2,
-        title: 'Designing (UI/UX)',
-        desc: 'I am proficient in using design software such as Figma, Adobe XD, and Adobe Illustrator. Through participating in hackathons and freelance work, I have gained practical experience in UI/UX design and graphic design. Designing is my passion, and it has allowed me to continue to develop my creative skills and grow in the field.',
+        title: 'Backed - NodeJs Developers',
+        desc: ' experienced NodeJS developers who can efficiently build various types of Node.js applications as per your business requirements.',
     },
     {
         id: 3,
-        title: 'Github',
+        title: 'Front End - ReactJs Developer',
         desc: "GitHub is essential for version control and collaboration. Its intuitive interface and features like pull requests and issue tracking simplify the process. Continuous integration ensures up-to-date code. GitHub is vital to my success as a developer.",
     },
     {
         id: 4,
-        title: 'Open Source Contributor',
+        title: 'PHP - Codeigniter Developer',
+        desc: "Open Source is the future. I usually take some time on weekend and contribute into opensource project. It gives me opportunity to learn from best developer's practices and also gives me a chance to help others and contribute into the community for the good.",
+    },
+    {
+        id: 5,
+        title: 'Platform - AWS Developer',
         desc: "Open Source is the future. I usually take some time on weekend and contribute into opensource project. It gives me opportunity to learn from best developer's practices and also gives me a chance to help others and contribute into the community for the good.",
     },
 ]
