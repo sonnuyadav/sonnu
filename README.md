@@ -3,6 +3,6 @@
 
 This website is fully responsive personal portfolio, <br />Responsive for all devices, built using Nextjs, TailwindCSS only.
 
-<a href="www.sonnu.in"><strong>➥ Live Demo</strong></a>
+<a href="https://sonnu.in/" target="_blank"><strong>➥ Live Demo</strong></a>
 
 </div>
