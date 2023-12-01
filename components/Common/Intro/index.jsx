@@ -8,7 +8,7 @@ import Location from './Location';
 import Tools from './Tools';
 import Skills from './Skills';
 import Image from 'next/image';
-import { NAME, DESIGNATION, SOCIAL_LINKS, META_DETAILS } from '../../../constants/constants';
+import { NAME, DESIGNATION, SOCIAL_LINKS } from '../../../constants/constants';
 import SonuYadav from '../../../public/images/sonuyadav.jpeg';
 
 const Intro = () => {

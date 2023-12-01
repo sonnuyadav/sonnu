@@ -13,7 +13,7 @@ const Banner = () => {
                             </div>
                             <div className="">
                                 <div className=" py-4 font-cascadia-normal text-Snow pb-4 text-xs h-20 lg:h-auto">
-                                    <span>{"<"}<span className="text-Green sm:text-base xl:text-lg font-bold">div</span>
+                                    <span>{"<"}<span className="text-Green sm:text-base xl:text-lg font-bold">skills</span>
                                         {">"} <span className="text-Snow sm:text-xl xl:text-2xl font-bold"> I am a  <span className="inline-block">
                                             <Typewriter
                                                 options={{
@@ -25,7 +25,7 @@ const Banner = () => {
                                                 }}
                                             />
                                         </span>
-                                        </span> {"</"}<span className="text-Green sm:text-base xl:text-lg font-bold">div</span>{">"} </span>
+                                        </span> {"</"}<span className="text-Green sm:text-base xl:text-lg font-bold">skills</span>{">"} </span>
                                 </div>
                             </div>
                          

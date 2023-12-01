@@ -11,23 +11,23 @@ const expertise = [
     },
     {
         id: 2,
-        title: 'Backed - NodeJs Developers',
-        desc: ' experienced NodeJS developers who can efficiently build various types of Node.js applications as per your business requirements.',
+        title: 'Backend - NodeJs Developers',
+        desc: 'Working on Node.js projects is always interesting because it is such a versatile tool. I have worked on most interesting and innovative projects around. By working on such jobs, I always expanding my knowledge base, and delivering a great product. Once done with the development we reinforce to offer you a highly powerful, scalable and valuable product with our advanced app testing methods.',
     },
     {
         id: 3,
         title: 'Front End - ReactJs Developer',
-        desc: "GitHub is essential for version control and collaboration. Its intuitive interface and features like pull requests and issue tracking simplify the process. Continuous integration ensures up-to-date code. GitHub is vital to my success as a developer.",
+        desc: "React.js is a popular JavaScript library for building user interfaces, particularly for single-page applications where you want a fast and efficient way to update and render. Finding the right ReactJS developer is essential for success with this technology. I am experienced ReactJS developers can help you deliver your IT project on time, smoothly & successfully.",
     },
     {
         id: 4,
-        title: 'PHP - Codeigniter Developer',
-        desc: "Open Source is the future. I usually take some time on weekend and contribute into opensource project. It gives me opportunity to learn from best developer's practices and also gives me a chance to help others and contribute into the community for the good.",
+        title: 'PHP - Codeigniter/Laravel Developer',
+        desc: "I offer complete custom php development service, Codeigniter website developer that offers modified,codeigniter framework web application improvement administrations for undertakings, private companies, and new businesses. If you want to hire me as a dedicated PHP/Laravel/Codeigniter developer as an in-house resource from us to experience.",
     },
     {
         id: 5,
-        title: 'Platform - AWS Developer',
-        desc: "Open Source is the future. I usually take some time on weekend and contribute into opensource project. It gives me opportunity to learn from best developer's practices and also gives me a chance to help others and contribute into the community for the good.",
+        title: 'Solutions for Application Development - AWS',
+        desc: "I am experienced Back-End Developer to work on the development back-end services and API's.I am providing service as Platorm Engineer - AWS, Lambda Function and CI/CD pipeline including cloud-native architecture built on Microservices, Kubernetes and Docker. I can provide service caching a cluster of containers with flexible resource sharing. Also providing services encrypt data in S3 bucket.",
     },
 ]
 
