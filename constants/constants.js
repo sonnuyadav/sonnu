@@ -1,6 +1,6 @@
 export const NAME = 'Sonu Yadav';
 
-export const DESIGNATION = `Fullstack Engineer | Open Source Contributor | Entrepreneur`;
+export const DESIGNATION = `Fullstack Engineer | Indivisual Consultant | Entrepreneur`;
 
 export const DETAILS = {
   Residence: 'India',
@@ -9,8 +9,12 @@ export const DETAILS = {
 
 export const SKILLS = [
   {
-    title: 'MERN Stack Developer',
-    level: '75%',
+    title: 'Full Stack Developer',
+    level: '90%',
+  },
+  {
+    title: 'Backend Developer',
+    level: '97%',
   },
   {
     title: 'React Developer',
@@ -21,23 +25,19 @@ export const SKILLS = [
   //   level: '75%',
   // },
   {
-    title: 'Backend Developer',
-    level: '54%',
-  },
-  {
-    title: 'Technical Blogger',
-    level: '83%',
+    title: 'PHP Developer',
+    level: '90%',
   },
 ];
 
 export const TECH_STACK = [
+  'NodeJS',
   'ReactJS',
   'JavaScript',
   'NextJS',
   'TypeScript',
-  'NodeJS',
   'Redux',
-  'Zustand',
+  'NestJs',
   'CSS',
   'SCSS',
   'TailwindCSS',
@@ -51,7 +51,12 @@ export const TECH_STACK = [
   'GitHub',
   'Jira',
   'Figma',
-  'Adobe XD',
+  'AWS',
+  'Lambda',
+  'GraphQL',
+  'PHP',
+  'Codeigniter',
+  'Laravel'
 ];
 
 export const CONTACTS = {
