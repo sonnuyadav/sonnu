@@ -42,8 +42,7 @@ const background = [
             {
                 id: 3,
                 title: 'RV Online Gaming Pvt. Ltd',
-                role: 'PHP Developer',
-                url: 'https://www.encoderbytes.com/',
+                role: 'Software Engineer',
                 desc: "Design architecture based on business needs. Develop NodeJS services. Developed poker realmoney game with multiple veriants like Holdem, Omaha, Shortdek using node.js with aws and mongodb.",
                 year: '03/2018 - 08/2020',
                 location: 'Gurgaon, India'
